@@ -1,9 +1,9 @@
- NFT MARKETPLACE PLUGIN. Demo here <a href="https://nft.wpmix.net">https://nft.wpmix.net</a>. 
+ NFT MARKETPLACE PLUGIN.
 <br><br>
 BETA! only ropsten
 <br><br>
 <strong>What about NFT marketplace?</strong><br>
-Buy Extended liecence and get NFT plugin. Demo <a href="https://nft.wpmix.net/">https://nft.wpmix.net/</a>. 
+Buy Extended liecence and get NFT plugin.
 
 Features
 - Users can add NFTs using MetaMask<br>
